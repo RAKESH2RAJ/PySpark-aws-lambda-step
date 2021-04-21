@@ -1,7 +1,7 @@
 import ast
 import sys
 import os
-from pyspark-job.run import run
+from pyspark_job.run import run
 import json
 
 if __name__ == '__main__':
