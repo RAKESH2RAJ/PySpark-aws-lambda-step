@@ -135,4 +135,4 @@ dmypy.json
 .secrets
 *.pem
 *.ppk
-*/application.conf
+*/application.yml
