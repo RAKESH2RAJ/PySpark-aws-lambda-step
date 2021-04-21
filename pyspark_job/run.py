@@ -2,7 +2,6 @@ from pyspark_etl.jobs import raw_to_lake
 from pyspark_etl.utils.logger_utils import get_logger
 from pyspark_etl.utils.spark_utils import create_spark_session
 
-
 jobs = {
     'job_raw_to_lake': raw_to_lake.process
 }
